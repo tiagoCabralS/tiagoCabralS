@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tiagoCabralS
-- 👀 I’m interested in playing basketball and programming
+- 👀 I’m interested in playing basketball, programming and watching series
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Simple projects
 - 📫 How to reach me send an e-mail to tiagocabral.gja@gmail.com
