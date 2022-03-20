@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tiagoCabralS
-- 👀 I’m interested in playing basketball, programming and watching series
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Tiago Cabral
+- 👀 I’m interested in practice my programming skills and learn more every day
+- 🌱 I’m currently learning Python and how to use the GIT and GitHub
 - 💞️ I’m looking to collaborate on Simple projects
 - 📫 How to reach me send an e-mail to tiagocabral.gja@gmail.com
 
