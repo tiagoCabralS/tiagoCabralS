@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tiago Cabral
 - 👀 I’m interested in practice my programming skills and learn more every day
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently studing Systems Analysis and Development at Instituto Federal de São Paulo (IFSP)
 - 💞️ I’m looking to collaborate on Simple projects
 - 📫 How to reach me send an e-mail to tiagocabral.gja@gmail.com
 
